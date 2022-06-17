@@ -1,8 +1,8 @@
 import React from 'react'
 import{BrowserRouter,Route,Routes,Navigate,NavLink}from 'react-router-dom'
-import{Home}from'../components/Home'
-import{About}from'../components/About'
-import{Dashboard}from'../components/Dashboard'
+import{Home}from'../componentes/Home'
+import{About}from'../componentes/About'
+import{Dashboard}from'../componentes/Dashboard'
 
 
 function Navegation() {
